@@ -43,13 +43,17 @@ body {
 h2 {
     margin: 0;
     transform: rotate(-45deg);
-    text-shadow: 0 0 5px #01579b;
+    text-shadow: 0 0 5px gray;
 }
 
-#florida {
-    background-color: #03a9f4;
+#bonefish {
+    background-color: #9ca8bc;
 }
 
-#paris {
-    background-color: #d32f2f;
+#tarpon {
+    background-color: #bac6b8;
+}
+
+#snook {
+    background-color: #c4bfb0;
 }
